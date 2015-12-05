@@ -17,7 +17,6 @@
       "PHPCompatibility\\" : ""
     }
   },
-  "type" : "phpcodesniffer-standard",
   "support" : {
     "issues" : "https://github.com/wimg/PHPCompatibility/issues",
     "source" : "https://github.com/wimg/PHPCompatibility"
@@ -26,5 +25,8 @@
     "name" : "Wim Godden",
     "role" : "lead"
   } ],
-  "homepage" : "http://techblog.wimgodden.be/tag/codesniffer/"
+  "homepage" : "http://techblog.wimgodden.be/tag/codesniffer/",
+  "extra": {
+    "installer-name": "PHPCompatibility"
+  }
 }
